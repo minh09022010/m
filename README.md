@@ -1,4 +1,4 @@
-# 👋 Xin chào, mình là <Tên Bạn>!
+# 👋 Xin chào, mình là ming!
 
 🎯 *"Không ngừng học hỏi – Không ngại thử thách – Code là đam mê!"*  
 
