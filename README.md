@@ -23,10 +23,10 @@ Mục tiêu của mình là phát triển những sản phẩm có giá trị, g
 - *Vị trí:* Front-end Developer
 
 ### 🎯 Sở thích
-- Code
-- Đọc sách
-- Học AI
-- Chơi cờ vua
+- Code  
+- Đọc sách  
+- Học AI  
+- Chơi cờ vua  
 
 ---
 
@@ -54,24 +54,9 @@ Giao diện quản lý người dùng và dữ liệu sản phẩm trực quan.
 | HTML/CSS/JS          | 70% |
 | Python               | 80% |
 
----
-
 ```mermaid
-%% biểu đồ đẹp cho kỹ năng
+%% Biểu đồ kỹ năng trực quan
 graph TD
     A[Python 🐍] -->|80%| B((★★★★☆))
-    C[C++ 💻] -->|60%| D((★★★☆☆))
-    E[HTML/CSS 🌐] -->|89%| F((★★★★☆))
-
-## 📬 Liên hệ
-
-Nếu bạn muốn hợp tác hoặc trao đổi, hãy liên hệ qua:
-
-- **Email:** [example@email.com](mailto:example@email.com)
-- **TikTok:** [@minhthachhhh](https://www.tiktok.com/@minhthachhhh)
-- **GitHub:** [minh09022010](https://github.com/minh09022010/)
-- **Facebook:** [facebook.com/minh09022010](https://www.facebook.com/minh09022010/)
-
----
-
-© 2025 Ming Thach. All rights reserved.
+    C[C++ 💻] -->|50%| D((★★★☆☆))
+    E[HTML/CSS/JS 🌐] -->|70%| F((★★★★☆))
