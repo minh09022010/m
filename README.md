@@ -56,6 +56,13 @@ Giao diện quản lý người dùng và dữ liệu sản phẩm trực quan.
 
 ---
 
+```mermaid
+%% biểu đồ đẹp cho kỹ năng
+graph TD
+    A[Python 🐍] -->|80%| B((★★★★☆))
+    C[C++ 💻] -->|60%| D((★★★☆☆))
+    E[HTML/CSS 🌐] -->|89%| F((★★★★☆))
+
 ## 📬 Liên hệ
 
 Nếu bạn muốn hợp tác hoặc trao đổi, hãy liên hệ qua:
